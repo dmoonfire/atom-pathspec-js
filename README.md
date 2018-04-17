@@ -22,7 +22,7 @@ Absolute paths are passed in. If a relative path is given, either by prefixing w
 
 ## API
 
-### getPath(spec) => `string`
+### getPath(spec) ⇒ `string`
 
 Returns an absolute path from the given spec.
 
