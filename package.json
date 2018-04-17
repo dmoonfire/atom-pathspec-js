@@ -1,0 +1,21 @@
+{
+  "name": "atom-pathspec",
+  "version": "0.0.0",
+  "description": "Translates pseudo-drives into absolute paths for Atom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmoonfire/atom-pathspec"
+  },
+  "bugs": {
+    "url": "https://github.com/dmoonfire/atom-pathspec/issues"
+  },
+  "author": "Dylan R. E. Moonfire <d.moonfire@mfgames.com>",
+  "license": "MIT"
+}
